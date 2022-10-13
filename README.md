@@ -17,17 +17,17 @@
 ---
 
 ### Current Projects:
-### 🟠 ![Kresu24.de](https://SafeGamez.net/assets/img/logo)
-[![wakatime](https://wakatime.com/badge/github/SafeGamez/safegamez.net.svg)](https://wakatime.com/badge/github/SafeGamez/safegamez.net)
+### 🟢 ![Kresu24.de](https://SafeGamez.net/assets/img/logo)
+[![wakatime](<figure><embed src="https://wakatime.com/share/@a4dbe430-e650-4282-8362-00b31f6c255f/3339d0de-d39c-4285-9727-ebac78859b04.svg"></embed></figure>)
 
-### 🟡 ![Paneled by Nexcessing IT](https://github.com/nexcessing/paneled) *not released* 
-[![wakatime](https://wakatime.com/badge/github/nexcessing/paneled.svg)](https://wakatime.com/badge/github/nexcessing/paneled)
+### 🟡 ![UnportalBot](https://cdn.discordapp.com/avatars/608291361145356288/05d062b4261b0d1b7e0ad3236a689d56.png?size=1024d) *not released* 
+[![wakatime](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276.svg)](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276)
 
 <br>
 <br>
 
 *legend:*
-*🔴-end of development | 🟠-paused | 🟡-active*
+*🔴-end of development | 🟡-paused | 🟢-active*
 
 ---
 
@@ -37,6 +37,7 @@
 
 ### Contact
 Email: <a href="mailto:dennist@dewbr.de">dennis@dewbr.de</a>
+Webseite: <a href="dewbr.de"><a/>
 
 <!---
 EinfachKonrad/EinfachKonrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
