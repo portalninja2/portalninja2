@@ -1,9 +1,11 @@
 ## 👋 Hi im portalninja2. I am from Germany, and i like to program. I fly Drone, and make video editing.
 <br>
 
+## 🎉 What new is...
+- Nothing
 
-
-
+---
+<br>
 
 ## 👨‍💻 I can...
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -60,8 +62,5 @@
 <a href="https://instagram.com/real_portalninja2">![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://linktr.ee/portalninja2">![Instagram](https://img.shields.io/badge/linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=white)</a>
   
----
-<br>
 
-## 🎉 My Announcments
-- Nothing
+
