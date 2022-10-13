@@ -20,7 +20,7 @@
 [![wakatime](https://wakatime.com/share/@a4dbe430-e650-4282-8362-00b31f6c255f/29471fc4-3c8f-434b-8bec-a1daeadfb1bc.svg)
 
 ### 🟠 [unportalBot]
-[![wakatime](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276.svg)](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276)
+[![wakatime](https://wakatime.com/badge/github/portalninja2/UnPortal-Bot-master.svg)
 
 <br>
 <br>
