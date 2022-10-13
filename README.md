@@ -16,17 +16,17 @@
 ---
 
 ### Current Projects:
-### 🟢 <a href="kresu24.de">[Kresu24.de]</a>
+### 🟢 [Kresu24.de]
 [![wakatime](<figure><embed src="https://wakatime.com/share/@a4dbe430-e650-4282-8362-00b31f6c255f/3339d0de-d39c-4285-9727-ebac78859b04.svg"></embed></figure>)
 
-### 🟡 unportalBot *not released* 
+### 🟠 [unportalBot]
 [![wakatime](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276.svg)](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276)
 
 <br>
 <br>
 
 *legend:*
-*🔴-end of development | 🟡-paused | 🟢-active*
+*🔴-end of development | 🟡-paused | 🟢-active | 🟠-not-released* 
 
 ---
 
