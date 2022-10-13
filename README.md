@@ -17,10 +17,10 @@
 ---
 
 ### Current Projects:
-### 🟢 ![Kresu24.de](https://SafeGamez.net/assets/img/logo)
+### 🟢 ![Kresu24.de]
 [![wakatime](<figure><embed src="https://wakatime.com/share/@a4dbe430-e650-4282-8362-00b31f6c255f/3339d0de-d39c-4285-9727-ebac78859b04.svg"></embed></figure>)
 
-### 🟡 ![UnportalBot](https://cdn.discordapp.com/avatars/608291361145356288/05d062b4261b0d1b7e0ad3236a689d56.png?size=1024d) *not released* 
+### 🟡 ![UnportalBot] *not released* 
 [![wakatime](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276.svg)](https://wakatime.com/badge/user/a4dbe430-e650-4282-8362-00b31f6c255f/project/5bbb1d74-e0ac-4728-8961-6e03338a3276)
 
 <br>
