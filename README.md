@@ -1,4 +1,4 @@
-## 👋 Hi im portalninja2. I am from Germany, and i like to program. I fly Drone, and make video editing.
+## 👋 Hi, I'm portalninja2. I'm a Germany developer. I fly Drone and edit Videos.
 <br>
 
 ## 🎉 What new is...
