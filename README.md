@@ -32,7 +32,7 @@
 
 ## 🔧 I'm working on...
 #### 🟢 [💦Kresu24.de]
-*<a href="https://github.com/users/portalninja2/projects/2">📊 ToDo</a>* |
+*<a href="https://github.com/users/portalninja2/projects/2">📊 ToDo</a>* | <a href="https://discord.gg/Vvm479nWpj">🗞️ Discord</a>
 
 
 #### 🟠 [👁‍🗨unportalBot]
