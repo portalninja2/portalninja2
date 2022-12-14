@@ -38,8 +38,11 @@
 #### 🟠 [👁‍🗨unportalBot]
 *<a href="https://github.com/users/portalninja2/projects/3">📊 ToDo</a>* | <a href="https://discord.gg/zwKZbEkWfW">📢 Bot Testen </a>
 
-#### 🟢 [👁‍🗨PicoCMS (TestPlattform)]
+#### 🟢 [🌍PicoCMS (TestPlattform)]
 *<a>⚠ Under Maintenance</a>* 
+
+#### 🟢 [☁NextCloud]
+*<a href="https://ssc.dewbr.de">☁ Cloud</a>* | <a href="mailto:support@dewbr.de">📨 Activate </a>
 
 <br>
 
@@ -51,7 +54,7 @@
 
 ## 💌 Contact
 
-📨Email: <a href="mailto:dennist@dewbr.de">dennis@dewbr.de</a>
+📨Email: <a href="mailto:dennis@dewbr.de">dennis@dewbr.de</a>
 
 🌍Webseite: <a href="dewbr.de">dewbr<a/>
 
