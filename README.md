@@ -52,6 +52,12 @@
 ---
 <br>
 
+## 📈 Statics
+<img src='http://github-readme-streak-stats.herokuapp.com?user=portalninja2&theme=vue-dark&border_radius=5&type=png'>
+
+---
+<br>
+
 ## 💌 Contact
 
 📨Email: <a href="mailto:dennis@dewbr.de">dennis@dewbr.de</a>
