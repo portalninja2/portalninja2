@@ -42,14 +42,14 @@
 *<a>⚠ Under Maintenance</a>* 
 
 #### 🟢 [☁NextCloud]
-*<a href="https://cloud.systemcomb.de">☁ Cloud</a>* | <a href="mailto:support@dewbr.de">📨 Activate </a>
+*<a href="https://cloud.systemcomb.de">☁ Cloud</a>* | <a href="https://ticket.systemcomb.de">📨 Activate </a>
 
 #### 🟢 [💾USB-Modules]
-*<a href="[https://github.com/](https://github.com/portalninja2/USB-Modules/tree/main)">☁ GitHub</a>* | <a href="(https://github.com/portalninja2/USB-Modules/blob/main/README.md)">💥 Setup </a>
+*<a href="https://github.com/portalninja2/USB-Modules/tree/main">☁ GitHub</a>* | <a href="https://github.com/portalninja2/USB-Modules/blob/main/README.md">💥 Setup </a>
 
 
 #### 🟢 [📌SystemComb]
-*<a href="[https://systemcomb.de)">☁ Website</a>* | <a href="(https://ticket.systemcomb.de)">🎟 Get a Server </a>
+*<a href="https://systemcomb.de">☁ Website</a>* | <a href="https://ticket.systemcomb.de">🎟 Get a Server </a>
 
 <br>
 
